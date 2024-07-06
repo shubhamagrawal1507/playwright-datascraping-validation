@@ -43,7 +43,7 @@ country_scraper/
 ## Installation
 
 -Clone the repository:
-   git clone https://github.com/yourusername/country-data-scraper.git
+   git clone https://github.com/shubhamagrawal1507/playwright-datascraping-validation.git
 
 -Install the dependencies:
 
